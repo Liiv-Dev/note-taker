@@ -1,5 +1,8 @@
 # Note Taker Project
 
+## Description
+Note taking app for users. 
+
 ## User Story
 AS A small business owner
 I WANT to be able to write and save notes
@@ -19,3 +22,32 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
 
+## Table of Contents (Optional)
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+## Installation
+Clone Repo, install node and express.js. Documentation can be found on npm website
+
+## Usage
+
+## Credits
+
+No collaborators
+
+## License
+
+N/a
+
+## Badges
+
+N/a
+
+## Features
+
+## How to Contribute
+
+## Tests
